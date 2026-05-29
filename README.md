@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ManageX - Smart Workforce Management Platform
 
 ManageX is a production-level, responsive SaaS application designed for dynamic task allocation, real-time employee monitoring, and visual performance analytics. Built using **React 19**, **Vite**, **Tailwind CSS v4**, and **Framer Motion**, it delivers a visually stunning and highly intuitive user experience inspired by Stripe, Vercel, Linear, and Notion.
